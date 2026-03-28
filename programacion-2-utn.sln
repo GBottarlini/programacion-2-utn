@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio-12-robot", "ejerc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio-04-Cine", "ejercicio-04-Cine\ejercicio-04-Cine.csproj", "{492769D9-56A4-4B80-B040-359F46538E35}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio-05-Cine", "ejercicio-05-Cine\ejercicio-05-Cine.csproj", "{0157BE4D-D0A4-4415-B0C1-0DFF6A65D3BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -97,6 +99,18 @@ Global
 		{492769D9-56A4-4B80-B040-359F46538E35}.Release|x64.Build.0 = Release|Any CPU
 		{492769D9-56A4-4B80-B040-359F46538E35}.Release|x86.ActiveCfg = Release|Any CPU
 		{492769D9-56A4-4B80-B040-359F46538E35}.Release|x86.Build.0 = Release|Any CPU
+		{0157BE4D-D0A4-4415-B0C1-0DFF6A65D3BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0157BE4D-D0A4-4415-B0C1-0DFF6A65D3BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0157BE4D-D0A4-4415-B0C1-0DFF6A65D3BF}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0157BE4D-D0A4-4415-B0C1-0DFF6A65D3BF}.Debug|x64.Build.0 = Debug|Any CPU
+		{0157BE4D-D0A4-4415-B0C1-0DFF6A65D3BF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0157BE4D-D0A4-4415-B0C1-0DFF6A65D3BF}.Debug|x86.Build.0 = Debug|Any CPU
+		{0157BE4D-D0A4-4415-B0C1-0DFF6A65D3BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0157BE4D-D0A4-4415-B0C1-0DFF6A65D3BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0157BE4D-D0A4-4415-B0C1-0DFF6A65D3BF}.Release|x64.ActiveCfg = Release|Any CPU
+		{0157BE4D-D0A4-4415-B0C1-0DFF6A65D3BF}.Release|x64.Build.0 = Release|Any CPU
+		{0157BE4D-D0A4-4415-B0C1-0DFF6A65D3BF}.Release|x86.ActiveCfg = Release|Any CPU
+		{0157BE4D-D0A4-4415-B0C1-0DFF6A65D3BF}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
